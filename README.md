@@ -49,6 +49,6 @@ The following are the major open-source packages utilized in this project:
 Follow [src_code](./src) in the environment with prerequisites.
 
 ## Contributing
-If you have any questions or suggestions for this repository, feel free to contact me at wanghw@zju.edu.cn
+If you have any questions or suggestions for this repository, feel free to contact me.
 
 Any kind of enhancement or contribution is welcomed!
