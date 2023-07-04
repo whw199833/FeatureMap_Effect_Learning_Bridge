@@ -1,4 +1,4 @@
-# gis_mars_detect_proj
+# gis_target_detect_proj
 
 This is the repo for Gis Mars Detecting Project
 
