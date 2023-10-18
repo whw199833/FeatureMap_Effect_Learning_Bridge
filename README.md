@@ -1,11 +1,11 @@
-# gis_target_detect_proj
+# Establishing Effective Learning Bridge Cross Multi-Scale Feature Maps for Object Detection
 
 This is the repo for Gis Mars Detecting Project
 
 <!-- ABOUT THE PAPER -->
 <h2 id="about-the-paper"> :pen: About The Paper</h2>
 
-**A bridge for Gis Picture Detecting**
+**Establishing Effective Learning Bridge Cross Multi-Scale Feature Maps for Object Detection**
 
 This is the repo for the paper, detecting the gis picture.
 
